@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Reuse the Collection
-permalink: /reuse/
+permalink: "/reuse/"
+layout: page
 collection: qatar
 ---
 

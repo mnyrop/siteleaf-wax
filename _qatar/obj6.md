@@ -1,4 +1,5 @@
 ---
+title: Obj6
 pid: obj6
 artist: Unknown
 location: Iran
@@ -14,3 +15,4 @@ thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj6/manifest.json"
 full: "/img/derivatives/iiif/images/obj6/full/1140,/0/default.jpg"
 ---
+

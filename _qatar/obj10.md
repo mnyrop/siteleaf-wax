@@ -1,4 +1,5 @@
 ---
+title: Obj10
 pid: obj10
 artist: Unknown
 location: Iran
@@ -14,3 +15,4 @@ thumbnail: "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj10/manifest.json"
 full: "/img/derivatives/iiif/images/obj10/full/1140,/0/default.jpg"
 ---
+

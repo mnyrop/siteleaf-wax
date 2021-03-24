@@ -1,7 +1,7 @@
 ---
-layout: page
 title: What is Wax?
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 **Wax helps you create digital exhibits.**   

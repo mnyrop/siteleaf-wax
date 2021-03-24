@@ -1,4 +1,5 @@
 ---
+title: Obj3
 pid: obj3
 artist: Unknown
 location: Egypt
@@ -14,3 +15,4 @@ thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj3/manifest.json"
 full: "/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
 ---
+

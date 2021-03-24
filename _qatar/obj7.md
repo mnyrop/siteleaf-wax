@@ -1,4 +1,5 @@
 ---
+title: Obj7
 pid: obj7
 artist: Unknown
 location: Iran
@@ -14,3 +15,4 @@ thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj7/manifest.json"
 full: "/img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
 ---
+
